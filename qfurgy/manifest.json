@@ -27,7 +27,7 @@ limitations under the License.
     {
       "name": "Qfurgy",
       "type": "ime",
-      "id": "qfurgy_xkb",
+      "id": "qfurgy",
       "description": "Qfurgy keyboard",  // user visible description
       "language": "en-US",  // The primary language this IME is used for
       "layouts": ["us"]
