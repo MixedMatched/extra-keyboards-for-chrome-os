@@ -30,7 +30,7 @@ limitations under the License.
       "id": "qfurgy_xkb",
       "description": "Qfurgy keyboard",  // user visible description
       "language": "US",  // The primary language this IME is used for
-      "layouts": [""]
+      "layouts": ["us"]
     }
   ]
 }
