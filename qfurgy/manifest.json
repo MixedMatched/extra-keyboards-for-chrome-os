@@ -17,6 +17,9 @@ limitations under the License.
   "version": "1.0",
   "manifest_version": 2,
   "description": "Qfurgy keyboard",
+  "background": {
+    "scripts": ["background.js"]
+  },
   "permissions": [
     "input"
   ],
