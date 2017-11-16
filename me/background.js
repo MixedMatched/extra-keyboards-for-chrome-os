@@ -45,7 +45,7 @@ var lut = {
 "BracketRight": { "plain": {"plain": "]", "shifted": "}"}, "alternate": {"plain": "", "shifted":""}, "code": "BracketRight"},
 "KeyA": { "plain": {"plain": "f", "shifted": "f"}, "alternate": {"plain": "", "shifted":""}, "code": "KeyF"},
 "KeyS": { "plain": {"plain": "m", "shifted": "m"}, "alternate": {"plain": "", "shifted":""}, "code": "KeyS"},
-"KeyD": { "plain": {"plain": "𝜈", "shifted": "𝜈"}, "alternate": {"plain": "", "shifted":""}, "code": "Key𝜈"},
+"KeyD": { "plain": {"plain": "v", "shifted": "v"}, "alternate": {"plain": "", "shifted":""}, "code": "Keyv"},
 "KeyF": { "plain": {"plain": "⋞", "shifted": "⋞"}, "alternate": {"plain": "", "shifted":""}, "code": "Key⋞"},
 "KeyG": { "plain": {"plain": "k", "shifted": "k"}, "alternate": {"plain": "", "shifted":""}, "code": "KeyK"},
 "KeyH": { "plain": {"plain": "b", "shifted": "b"}, "alternate": {"plain": "", "shifted":""}, "code": "KeyB"},
