@@ -34,7 +34,7 @@ var lut = {
 "KeyQ": { "plain": {"plain": "", "shifted": ""}, "alternate": {"plain": "", "shifted":""}, "code": ""},
 "KeyW": { "plain": {"plain": "", "shifted": ""}, "alternate": {"plain": "", "shifted":""}, "code": ""},
 "KeyE": { "plain": {"plain": "", "shifted": ""}, "alternate": {"plain": "", "shifted":""}, "code": ""},
-"KeyR": { "plain": {"plain": "", "shifted": ""}, "alternate": {"plain": "", "shifted":""}, "code": ""},
+"KeyR": { "plain": {"plain": "⚮", "shifted": "⚮"}, "alternate": {"plain": "", "shifted":""}, "code": "Key⚮"},
 "KeyT": { "plain": {"plain": "t", "shifted": "t"}, "alternate": {"plain": "", "shifted":""}, "code": "KeyT"},
 "KeyY": { "plain": {"plain": "g", "shifted": "g"}, "alternate": {"plain": "", "shifted":""}, "code": "KeyG"},
 "KeyU": { "plain": {"plain": "r", "shifted": "r"}, "alternate": {"plain": "", "shifted":""}, "code": "KeyR"},
