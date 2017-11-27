@@ -13,15 +13,15 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 {
-  "name": "Me",
-  "version": "1.0",
+  "name": "Me keyboard",
+  "version": "1.2",
   "manifest_version": 2,
   "description": "Me keyboard",
   "background": {
     "scripts": ["background.js"]
   },
   "permissions": [
-      "input"
+    "input"
   ],
   "input_components": [
     {
